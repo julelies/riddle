@@ -7,12 +7,12 @@ Made on MacOS Mojave for Oculus Rift in Unity 2019.1.f141 with SteamVR and Visua
 
 ## Progress 
 
-*Project Setup and Repos Initialisation
-*Modeled 3D Objects and applied Textures
-*Testing in VR in progress
+* Project Setup and Repos Initialisation
+* Modeled 3D Objects and applied Textures
+* Testing in VR in progress
 
 ## SteamVR Setup
-*Imported SteamVR
-*Imported 3D Models 
-*Import "Teleporting" and "Player"
-*Add plane, add "Teleport Area" Component to plane
+* Imported SteamVR
+* Imported 3D Models 
+* Import "Teleporting" and "Player"
+* Add plane, add "Teleport Area" Component to plane
