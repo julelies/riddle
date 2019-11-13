@@ -16,3 +16,9 @@ Made on MacOS Catalina V10.15 for Oculus Rift in Unity 2019.1.f141 with SteamVR 
 * Imported 3D Models 
 * Import "Teleporting" and "Player"
 * Add plane, add "Teleport Area" Component to plane
+
+## 4 Colors script
+* script to change color of the box lights from the torches
+* Colors should change through rotation of the globus (color shifts through different hues)
+* BSP. Color: blue
+* when color blue is chose event gets triggered (bcs blue is color of the dragon head) 
